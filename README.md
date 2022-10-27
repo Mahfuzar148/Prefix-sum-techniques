@@ -1,5 +1,5 @@
 # Prefix-sum-techniques
-
+/*code start from here*/
 #include<bits/stdc++.h>
 using namespace std;
 int main()
